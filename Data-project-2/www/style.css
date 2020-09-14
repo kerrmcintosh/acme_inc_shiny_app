@@ -1,0 +1,147 @@
+body {
+  margin-left: 10px;
+  color: #696969;
+}
+
+    .tabbable > .nav > li > a                  {color:#808080}
+header {
+  height: 70px;
+}
+
+#top_height {
+height: 70px;
+}
+
+#logo {
+  height: 70px;
+}
+
+.navbar-nav { 
+  height: 88px;
+}
+
+
+.separator {
+  height: 20px;
+  width: 100%;
+}
+.separator_five {
+  height: 5px;
+}
+
+.plot_cont {
+  margin-bottom: 15px; 
+}
+.footer_text {
+display: block;
+text-align: center;
+}
+
+h3, h4, h5 {
+font-weight:100;
+  color: #696969;
+}
+
+.box_align {
+  margin:0 auto;
+}
+.header_container{
+  width: 750px;
+  border: 1px solid #BEBEBE;
+  background-color: #FFE6E6;
+  margin: 20px 0 20px 40px;
+}
+
+.indent {
+  margin-left: 20px;
+}
+.st_container{
+  width: 750px;
+  border: 1px solid #BEBEBE;
+  background-color: #e6f5ff;
+  margin: 10px 0 10px 55px;
+  padding-top: 15px;
+}
+
+.container_tab3{
+    width: 1000px;
+  border: 1px solid #BEBEBE;
+  background-color: #e6f5ff;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.container_tab4{
+    width: 750px;
+  border: 1px solid #BEBEBE;
+  background-color: #e6f5ff;
+  margin: 10px 0 30px 40px;
+  padding-top: 10px;
+}
+.center{
+  text-align: center;
+}
+
+.div_in_topl {
+display: inline-block;
+  margin-left: 30px;
+}
+.div_in_topr {
+display: inline-block;
+  margin-left: 60px;
+  vertical-align: top;
+    margin-top: 10px;
+}
+.div_in {
+display: inline-block;
+
+}
+
+.div_space {
+width: 20px;
+display: inline-block;
+}
+.clearBoth { 
+  clear:both; }
+
+
+.lhs_input {
+padding-left: 10px;
+}
+
+
+.borderz1 {
+  border: 1px solid #BEBEBE ;
+  background-color: #FFE6E6;
+  padding: 3px;
+}
+
+.borderz2 {
+  border: 1px solid #BEBEBE ;
+  background-color: #F0F0F0;
+  padding: 3px;
+}
+
+.borderz3 {
+  border: 1px solid #BEBEBE ;
+  background-color: #e6f5ff;
+  padding: 3px;
+}
+
+.side_container_blue {
+  border: 1px solid #BEBEBE ;
+  background-color: #e6f5ff;
+  width: 300px;
+}
+
+.side_container_pink {
+  margin-top: 20px;
+  border: 1px solid #BEBEBE ;
+  background-color: #FFE6E6;
+  width: 300px;
+}
+
+.side_center{
+  margin-left: 35px;
+  padding-top: 10px;
+}
