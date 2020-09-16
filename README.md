@@ -21,7 +21,6 @@ Our project “client” told us that Google Analytics was restrictive in how it
 #### My part in the project
 In addition to the extracting of the data I  took the lead in the wrangling and synthesisation of the data,  designing the technical structure of the Shiny App, the design (customised CSS) and content of tab 3 (I also contributed to the programming and styling of tabs 2 and 4.
 
-
 #### Tech used
 The project was carried out using R to create a Shiny App.
 I personally utilised R Programming including cbind(), sin(), sample(), grepl(), str_detect(), ifelse(), case_when(), many aspects of dplyr and customisation of ggplot2.
