@@ -23,7 +23,7 @@ In addition to the extracting of the data I  took the lead in the wrangling and 
 
 #### Tech Used
 The project was carried out using R to create a Shiny App.
-I personally performed  R programming involving cbind(), sin(), sample(), grepl(), str_detect(), ifelse(), case_when(), many aspects of dplyr and customisation of ggplot2.
+I personally performed  R programming utilising cbind(), sin(), sample(), grepl(), str_detect(), ifelse(), case_when(), many aspects of dplyr and customisation of ggplot2.
 
 
 
