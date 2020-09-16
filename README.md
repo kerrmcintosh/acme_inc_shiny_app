@@ -2,6 +2,8 @@
 
 ## Code Clan Group Data Project
 
+![Code Highlight](Data-project-2/screen_shots/app_shot.png)
+
 CodeClan split is into groups of 4 
 
 Our project “client” told us that Google Analytics was restrictive in how it allowed them to analyse their company’s website performance in each of it’s 3 catchment cities.  We were given the brief to extract the data we deemed necessary from the client’s Google Analytics platform and to perform analysis and insight.
@@ -28,4 +30,5 @@ I personally performed  R programming involving cbind(), sin(), sample(), grepl(
 ![Code Highlight](Data-project-2/screen_shots/code_highligh1.png)
 _Personal code example 1_
 
+![Code Highlight](Data-project-2/screen_shots/code_highlight2.png)
 _Personal code example 2_
