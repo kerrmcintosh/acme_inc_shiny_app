@@ -4,13 +4,14 @@
 
 ![Code Highlight](Data-project-2/screen_shots/app_shot.png)
 
-#### A CodeClan project, working within a team on a real life data project.
+#### A CodeClan project, working within a team on a real life data project.  
+This all had to be done remotely via Zoom meetings.
 
 Our project “client” told us that Google Analytics was restrictive in how it allowed them to analyse their company’s website performance in each of it’s 3 catchment cities.  We were given the brief to extract the data we deemed necessary from the client’s Google Analytics platform and to perform analysis and insight.
 
 
 #### Process ( Over the course of 4 days)
-1. We started by meeting as a team to discuss the key areas for focus and to roughly plan a visualisation of how our app would look (we decided a Shiny App was how we would like to visualise the data).  We also decided how we would group 3 catchments geographically in Scotland (dependant on the longtitude / latitude of web user).  This all had to be done remotely via Zoom meetings.
+1. We started by meeting as a team to discuss the key areas for focus and to roughly plan a visualisation of how our app would look (we decided a Shiny App was how we would like to visualise the data).  We also decided how we would group 3 catchments geographically in Scotland (dependant on the longtitude / latitude of web user).  
 1. We agreed responsibilities and expectations for each team member.
 1. We worked together to perform the API calls, to extract the data from Google Analytics and to perform basic data wrangling,  data synthesisation from which we could all work from individually and to create the skeleton structure of our Shiny App.
 1. We then worked individually on our areas but maintaining contact at all times to maintain a consistency in each of our areas (tabs).
