@@ -25,6 +25,7 @@ I personally performed  R programming involving cbind(), sin(), sample(), grepl(
 
 
 
+![Code Highlight](/Data-project-2/screen_shots_cde_highligh1.png)
 _Personal code example 1_
 
 _Personal code example 2_
