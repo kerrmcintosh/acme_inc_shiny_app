@@ -60,7 +60,7 @@ server <- function(input, output) {
   })
   
   #---------------------------------------------------------------------
-  #TAB3 Source Medium  - Kerr 
+  #TAB3 Source Medium 
   
   
   
@@ -114,7 +114,7 @@ server <- function(input, output) {
       filter(ai_source == input$medium) %>% 
       group_by(catchment) %>% 
       summarise(total_traffic =format(as.integer(sum(sessions)), big.mark=","))
-  }, colnames = FALSE)
+  }, colnames = FALSE, align = "lr")
   
   output$traf_med<- renderText({
     paste(input$medium, "traffic")
